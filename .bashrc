@@ -3,7 +3,6 @@ alias mp3="yt-dlp -x --audio-format mp3 -o '%(title)s.%(ext)s' --no-mtime"
 alias mp4="yt-dlp --merge-output-format mp4"
 alias bcmp3="bandcamp-dl --base-dir=/media/patryk/0123-4567/Music/"
 alias ncdu="ncdu --color off"
-alias magick="display-im6"
 
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
